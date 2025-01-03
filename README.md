@@ -1,8 +1,8 @@
 # Personal-Finance-Tracker
-## What is this
+## My project
 This is a simple Personal finance tracker, made using python and pandas library, my application allows us to track the incomes and expenses.This should serve as a basic personal finance calculator.It also automatically marks the date and time of the transaction 
 
-##** Key features **
+## Key features
 - Add new transactions (income or expense)
 - View current financial records
 - Calculate total income, total expenses, and balance
