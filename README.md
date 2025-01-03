@@ -13,6 +13,7 @@ This is a simple Personal finance tracker, made using python and pandas library,
 ##Prerequisites
 -python 3.6 or higher(I am using version 3.9.6)
 ![image](https://github.com/user-attachments/assets/b8f5e90f-eb05-48c7-a30e-4f5274341083)
+
 -Pandas library
 
 ## How to install
