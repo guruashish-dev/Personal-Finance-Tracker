@@ -23,14 +23,14 @@ This is a simple Personal finance tracker, made using python and pandas library,
 
 -To verify the python install oprn cmd and type:
 
-'''bash
+```bash
 python --version
-
+```
 -Open terminal and type to install pandas: 
 
-'''bash
+``` bash
 pip install pandas
+```
 
-
-#This should be enough to run my code perfectly.
+### This should be enough to run my code perfectly.
 Happy coding.
